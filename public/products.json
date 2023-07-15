@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "categoria": "pantalones",
+    "nombre": "Pantalones vaqueros ajustados",
+    "imagen": "https://www.tradeinn.com/f/13955/139556880/revit-vaqueros-piston-2-sk.jpg",
+    "descripcion": "Pantalones vaqueros ajustados de color azul con corte moderno.",
+    "precio": 49.99
+  },
+  {
+    "id": 2,
+    "categoria": "camisas",
+    "nombre": "Camisa de rayas",
+    "imagen": "https://i.pinimg.com/550x/b7/e0/35/b7e035f1184b12f690d66f7980049895.jpg",
+    "descripcion": "Camisa de manga larga con rayas blancas y azules, perfecta para ocasiones formales.",
+    "precio": 29.99
+  },
+  {
+    "id": 3,
+    "categoria": "remeras",
+    "nombre": "Remera básica",
+    "imagen": "https://marcopololp.com.ar/wp-content/uploads/2022/01/remera-basica-cuello-u-negra-gola-marco-polo-2.jpg",
+    "descripcion": "Remera de algodón de color blanco, ideal para uso diario y combinar con diferentes prendas.",
+    "precio": 19.99
+  },
+  {
+    "id": 4,
+    "categoria": "pantalones",
+    "nombre": "Remera básica",
+    "imagen": "https://marcopololp.com.ar/wp-content/uploads/2022/01/remera-basica-cuello-u-negra-gola-marco-polo-2.jpg",
+    "descripcion": "Remera de algodón de color blanco, ideal para uso diario y combinar con diferentes prendas.",
+    "precio": 24.99
+  },
+  {
+    "id": 5,
+    "categoria": "camisas",
+    "nombre": "Remera básica",
+    "imagen": "https://marcopololp.com.ar/wp-content/uploads/2022/01/remera-basica-cuello-u-negra-gola-marco-polo-2.jpg",
+    "descripcion": "Remera de algodón de color blanco, ideal para uso diario y combinar con diferentes prendas.",
+    "precio": 19.99
+  },
+  {
+    "id": 6,
+    "categoria": "remeras",
+    "nombre": "Remera básica",
+    "imagen": "https://marcopololp.com.ar/wp-content/uploads/2022/01/remera-basica-cuello-u-negra-gola-marco-polo-2.jpg",
+    "descripcion": "Remera de algodón de color blanco, ideal para uso diario y combinar con diferentes prendas.",
+    "precio": 25.99
+  },
+  {
+    "id": 7,
+    "categoria": "pantalones",
+    "nombre": "Remera básica",
+    "imagen": "https://marcopololp.com.ar/wp-content/uploads/2022/01/remera-basica-cuello-u-negra-gola-marco-polo-2.jpg",
+    "descripcion": "Remera de algodón de colorblanco, ideal para uso diario y combinar con diferentes prendas.",
+    "precio": 17.99
+  },
+  {
+    "id": 8,
+    "categoria": "camisas",
+    "nombre": "Remera básica",
+    "imagen": "https://marcopololp.com.ar/wp-content/uploads/2022/01/remera-basica-cuello-u-negra-gola-marco-polo-2.jpg",
+    "descripcion": "Remera de algodón de color blanco, ideal para uso diario y combinar con diferentes prendas.",
+    "precio": 30.99
+  },
+  {
+    "id": 9,
+    "categoria": "remeras",
+    "nombre": "Remera básica",
+    "imagen": "https://marcopololp.com.ar/wp-content/uploads/2022/01/remera-basica-cuello-u-negra-gola-marco-polo-2.jpg",
+    "descripcion": "Remera de algodón de color blanco, ideal para uso diario y combinar con diferentes prendas.",
+    "precio": 15.99
+  },
+  {
+    "id": 10,
+    "categoria": "pantalones",
+    "nombre": "Remera básica",
+    "imagen": "https://marcopololp.com.ar/wp-content/uploads/2022/01/remera-basica-cuello-u-negra-gola-marco-polo-2.jpg",
+    "descripcion": "Remera de algodón de color blanco, ideal para uso diario y combinar con diferentes prendas.",
+    "precio": 36.99
+  },
+  {
+    "id": 11,
+    "categoria": "camisas",
+    "nombre": "Remera básica",
+    "imagen": "https://marcopololp.com.ar/wp-content/uploads/2022/01/remera-basica-cuello-u-negra-gola-marco-polo-2.jpg",
+    "descripcion": "Remera de algodón de color blanco, ideal para uso diario y combinar con diferentes prendas.",
+    "precio": 27.99
+  },
+  {
+    "id": 12,
+    "categoria": "remeras",
+    "nombre": "Remera básica",
+    "imagen": "https://marcopololp.com.ar/wp-content/uploads/2022/01/remera-basica-cuello-u-negra-gola-marco-polo-2.jpg",
+    "descripcion": "Remera de algodón de color blanco, ideal para uso diario y combinar con diferentes prendas.",
+    "precio": 14.99
+  },
+  {
+    "id": 13,
+    "categoria": "pantalones",
+    "nombre": "Remera básica",
+    "imagen": "https://marcopololp.com.ar/wp-content/uploads/2022/01/remera-basica-cuello-u-negra-gola-marco-polo-2.jpg",
+    "descripcion": "Remera de algodón de color blanco, ideal para uso diario y combinar con diferentes prendas.",
+    "precio": 45.99
+  },
+  {
+    "id": 14,
+    "categoria": "camisas",
+    "nombre": "Remera básica",
+    "imagen": "https://marcopololp.com.ar/wp-content/uploads/2022/01/remera-basica-cuello-u-negra-gola-marco-polo-2.jpg",
+    "descripcion": "Remera de algodón de color blanco, ideal para uso diario y combinar con diferentes prendas.",
+    "precio": 50.99
+  },
+  {
+    "id": 15,
+    "categoria": "remeras",
+    "nombre": "Remera básica",
+    "imagen": "https://marcopololp.com.ar/wp-content/uploads/2022/01/remera-basica-cuello-u-negra-gola-marco-polo-2.jpg",
+    "descripcion": "Remera de algodón de color blanco, ideal para uso diario y combinar con diferentes prendas.",
+    "precio": 12.99
+  }
+
+]
